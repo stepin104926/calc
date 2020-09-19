@@ -4,4 +4,4 @@
 
 Sc calc
 ![cppcheck-action](https://github.com/stepin104926/calc/workflows/cppcheck-action/badge.svg)
-![cppcheck-action](https://github.com/stepin104926/calc/workflows/cppcheck-action/badge.svg)
+![CI](https://github.com/stepin104926/calc/workflows/CI/badge.svg)
